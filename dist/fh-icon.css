@@ -1,0 +1,149 @@
+@font-face {
+    font-family: "fh-icon";
+    src: url("./fh-icon.eot?b394744dcf3c3b4f9b05eea32af760b7?#iefix") format("embedded-opentype"),
+url("./fh-icon.woff2?b394744dcf3c3b4f9b05eea32af760b7") format("woff2"),
+url("./fh-icon.woff?b394744dcf3c3b4f9b05eea32af760b7") format("woff"),
+url("./fh-icon.ttf?b394744dcf3c3b4f9b05eea32af760b7") format("truetype"),
+url("./fh-icon.svg?b394744dcf3c3b4f9b05eea32af760b7#fh-icon") format("svg");
+}
+
+i[class^="fh-"]:before, i[class*=" fh-"]:before {
+    font-family: fh-icon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fh-fa-city:before {
+    content: "\f101";
+}
+.fh-fa-images:before {
+    content: "\f102";
+}
+.fh-fa-plane-departure:before {
+    content: "\f103";
+}
+.fh-io-ios-add:before {
+    content: "\f104";
+}
+.fh-io-ios-body:before {
+    content: "\f105";
+}
+.fh-io-ios-remove:before {
+    content: "\f106";
+}
+.fh-md-access-time:before {
+    content: "\f107";
+}
+.fh-md-add:before {
+    content: "\f108";
+}
+.fh-md-alarm:before {
+    content: "\f109";
+}
+.fh-md-arrow-back:before {
+    content: "\f10a";
+}
+.fh-md-arrow-drop-up:before {
+    content: "\f10b";
+}
+.fh-md-arrow-dropdown:before {
+    content: "\f10c";
+}
+.fh-md-camera-alt:before {
+    content: "\f10d";
+}
+.fh-md-check:before {
+    content: "\f10e";
+}
+.fh-md-chevron-left:before {
+    content: "\f10f";
+}
+.fh-md-chevron-right:before {
+    content: "\f110";
+}
+.fh-md-clear:before {
+    content: "\f111";
+}
+.fh-md-create:before {
+    content: "\f112";
+}
+.fh-md-dehaze:before {
+    content: "\f113";
+}
+.fh-md-expand-less:before {
+    content: "\f114";
+}
+.fh-md-expand-more:before {
+    content: "\f115";
+}
+.fh-md-history:before {
+    content: "\f116";
+}
+.fh-md-hotel:before {
+    content: "\f117";
+}
+.fh-md-info-outline:before {
+    content: "\f118";
+}
+.fh-md-keyboard-arrow-down:before {
+    content: "\f119";
+}
+.fh-md-keyboard-arrow-left:before {
+    content: "\f11a";
+}
+.fh-md-keyboard-arrow-right:before {
+    content: "\f11b";
+}
+.fh-md-keyboard-arrow-up:before {
+    content: "\f11c";
+}
+.fh-md-local-parking:before {
+    content: "\f11d";
+}
+.fh-md-location-on:before {
+    content: "\f11e";
+}
+.fh-md-mode-edit:before {
+    content: "\f11f";
+}
+.fh-md-notifications:before {
+    content: "\f120";
+}
+.fh-md-place:before {
+    content: "\f121";
+}
+.fh-md-radio-button-checked:before {
+    content: "\f122";
+}
+.fh-md-radio-button-unchecked:before {
+    content: "\f123";
+}
+.fh-md-remove:before {
+    content: "\f124";
+}
+.fh-md-room-service:before {
+    content: "\f125";
+}
+.fh-md-search:before {
+    content: "\f126";
+}
+.fh-md-sort:before {
+    content: "\f127";
+}
+.fh-md-star:before {
+    content: "\f128";
+}
+.fh-md-train:before {
+    content: "\f129";
+}
+.fh-md-tune:before {
+    content: "\f12a";
+}
+.fh-md-wifi:before {
+    content: "\f12b";
+}
